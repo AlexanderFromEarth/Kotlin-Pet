@@ -1,0 +1,3 @@
+[submodule "archetypes/ktor-microservice-archetype"]
+	path = archetypes/ktor-microservice-archetype
+	url = https://github.com/AlexanderFromEarth/ktor-microservice-archetype.git
